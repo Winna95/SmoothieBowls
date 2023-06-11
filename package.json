@@ -1,0 +1,29 @@
+{
+  "name": "smoothiebowls",
+  "version": "1.0.0",
+  "description": "A blog about healthy smoothie bowls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winna95/SmoothieBowls.git"
+  },
+  "keywords": [
+    "healthy",
+    "smoothie",
+    "bowls"
+  ],
+  "author": "Winnie Mørk Ørbek",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Winna95/SmoothieBowls/issues"
+  },
+  "homepage": "https://github.com/Winna95/SmoothieBowls#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
