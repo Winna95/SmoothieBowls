@@ -51,7 +51,7 @@ Hosted link:
 https://ephemeral-alfajores-046636.netlify.app/
 
 Links to the prototype:
-https://www.figma.com/file/RBgwUjqj9niLNWJxJlK4tm/2022-09-23_Design_CA_Winnie-Orbek_fp?type=design&node-id=0%3A1&t=qUGFPNRhk7mMnTGL-1
+https://www.figma.com/file/QLfbh4XxbBIYuncqxpmjgP/Project-Exam-1_PE1_Winnie-Orbek_fp?type=design&node-id=1%3A11&t=Z4CWHPb8GPPqDv2d-1
 
 ### References
 
